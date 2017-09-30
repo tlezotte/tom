@@ -656,7 +656,7 @@ aside.clients img {
     margin: 50px auto;
 }
 
-section#contact {
+section#hiking {
     background-color: #222;
     background-image: url('{{ site.baseurl }}/img/map-image.png');
     background-position: center;
