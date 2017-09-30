@@ -653,9 +653,14 @@ section h3.section-subheading {
     margin-top: 0;
 }
 
-aside.clients img {
+aside.brooks {
+    background-color: #000000;
+}
+
+aside.brooks img {
     margin: 50px auto;
 }
+
 
 section#hiking {
     background-color: #222;
