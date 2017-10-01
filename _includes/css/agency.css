@@ -882,6 +882,11 @@ body {
     align-items: center;
 }
 
+.devicon {
+    width: 20px;
+    height: 20px;
+}
+
 section#hiking {
     background-color: #ffffff;
     background-position: center;
