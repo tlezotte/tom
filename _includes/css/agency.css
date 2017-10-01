@@ -883,8 +883,10 @@ body {
 }
 
 .devicon {
-    width: 20px;
-    height: 20px;
+    font-size: 25px;
+    height: 25px;
+    width: 25px;
+    vertical-align: baseline;
 }
 
 section#hiking {
