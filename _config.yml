@@ -8,14 +8,13 @@ description: ""
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/tomlezotte
   - title: linkedin
     url: https://www.linkedin.com/in/tomlezotte/
   - title: stack-overflow
     url: https://stackoverflow.com/users/290908/tom
   - title: github
     url: https://github.com/tlezotte
+
 
 # Build settings
 markdown: kramdown
