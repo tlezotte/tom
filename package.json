@@ -1,0 +1,23 @@
+{
+  "name": "tom",
+  "version": "1.0.0",
+  "description": "tom.lezotte.net",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlezotte/tom.git"
+  },
+  "author": "Tom LeZotte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlezotte/tom/issues"
+  },
+  "homepage": "https://github.com/tlezotte/tom#readme",
+  "devDependencies": {
+    "eslint": "^5.7.0",
+    "eslint-config-google": "^0.10.0"
+  }
+}
